@@ -3,6 +3,7 @@
 ## Mathematics & Physics and Astronomy (NS-320B)
 *'Applying Physics-informed Neural Networks to Chaotic Nonlinear Systems of Ordinary Differential Equations'*
 
+Utrecht University
 **Author:** Martijn Sebastiaan Brouwer (6859488)
 
 **Mathematics supervisors:** prof. dr. ir. C.W. Oosterlee

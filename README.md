@@ -1,1 +1,1 @@
-# Application of Physics-informed Neural Networks on ODE systems
+# Application of Physics-informed Neural Networks on (chaotic) nonlinear ODE systems
